@@ -28,4 +28,4 @@ It is strongly recommended that the project be credited.
 Uses Dynlightslib by Zorillac
 https://github.com/Z0rillac/Dynlightslib
 ```
-
+This program is licensed under the MIT license.
