@@ -26,5 +26,6 @@ In the `<datapack>/data/minecraft/tags/functions` folder, add `"dynlightslib:cor
 It is strongly recommended that the project be credited.
 ```
 Uses Dynlightslib by Zorillac
-
+https://github.com/Z0rillac/Dynlightslib
 ```
+
