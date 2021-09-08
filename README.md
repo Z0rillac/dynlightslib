@@ -1,7 +1,7 @@
 # Dynlightslib
 Welcome to Dynlightslib.
 Dynlightslib is a mcfunction library that allows you to easily manage lights in Minecraft.
-### [Download](https://github.com/Z0rillac/Dynlightslib/archive/refs/heads/main.zip)
+### [Download](https://github.com/Z0rillac/dynlightslib/archive/refs/heads/main.zip)
 
 ## Contents
 Dynlightslib integrete three mecanism for the moment:
