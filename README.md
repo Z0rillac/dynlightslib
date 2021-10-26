@@ -20,7 +20,7 @@ The most interesting. The dynamic lights are switchable and entity specific. You
 Dynlightslib is first of all the only library allowing to manage lights dynamically in Minecraft. Thanks to its storage-based and not entity-based operation, it allows for much better performance, such as being able to manage more than 1000 lights each tick, without any optimization mod and without lag (test performed in a classic world, without spawn gamerule, with Intel Core i5 7200U + processor rendering, Minecraft Vanilla)
 
 ## How I add it to my datapack ?
-Drag the [Downloaded file](https://www.dropbox.com/sh/gtxvlt4zthalpns/AAB9bvpTsI4rCz3lyHEuO0X6a?dl=1) into the `<datapack>/data folder`.
+Drag the [Downloaded file](https://github.com/Z0rillac/dynlightslib/archive/refs/heads/main.zip) into the `<datapack>/data folder`.
 In the `<datapack>/data/minecraft/tags/functions` folder, add `"dynlightslib:core/load"` to `load.json`. Add `"dynlightslib:core/tick"` in `tick.json` preferably after the other files to avoid tick delays. Otherwise you can manually execute these functions in the mcfunction files of your datapack.
 
 ## How to credits
